@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41996050644",
+    "project_id": "tugasprak-11881-bfc83",
+    "storage_bucket": "tugasprak-11881-bfc83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41996050644:android:249dfc27b1f02df5cd5b41",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud_oop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGVi4hdmT3ck8ZBTBXxRIFQyF75nsbZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
